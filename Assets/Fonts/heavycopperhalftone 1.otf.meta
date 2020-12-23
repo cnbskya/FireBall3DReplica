@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 719e7b1b450491b4797c25ae9dacc2cf
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper Halftone
+  fontNames:
+  - Heavy Copper Halftone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7b0b1d20ba68fbc42b000fe5cc250817, type: 3}
+  - {fileID: 12800000, guid: 92fff70981aaded4ba8ac530f2a7b37f, type: 3}
+  - {fileID: 12800000, guid: b0955bdfcb1f4e8489e1b1d657341c55, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

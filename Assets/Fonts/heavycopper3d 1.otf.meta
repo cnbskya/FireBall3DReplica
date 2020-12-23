@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2a053073587522b4c902aefc29415911
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper 3D
+  fontNames:
+  - Heavy Copper 3D
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 23602e585f1605849a212f21207f2612, type: 3}
+  - {fileID: 12800000, guid: 0775b38865687f14bb4c6bbc62c2092b, type: 3}
+  - {fileID: 12800000, guid: f158685bbb205ae428eeaecd6bfb17d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

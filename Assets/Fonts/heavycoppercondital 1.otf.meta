@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 3f648a392afe94c428f87542c33ff1b3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper Condensed Italic
+  fontNames:
+  - Heavy Copper Condensed Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e676035b885c9aa468d47ac79286eb35, type: 3}
+  - {fileID: 12800000, guid: 8274bcdcb3239e14381111d3554e7aed, type: 3}
+  - {fileID: 12800000, guid: e3e0c45f679209b45a343eaec7a0d4a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

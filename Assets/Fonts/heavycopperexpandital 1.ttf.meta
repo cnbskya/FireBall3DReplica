@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 41231034dd4ccbf4b82f3cb7f4c1afa4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heavy Copper Expanded Italic
+  fontNames:
+  - Heavy Copper Expanded Italic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c00da3a2e9301ed43802bff7066b5cd1, type: 3}
+  - {fileID: 12800000, guid: 10aa6986b591766439c1e618f7f9c2f3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
